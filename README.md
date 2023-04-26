@@ -1,4 +1,4 @@
-# CS305-05
+# CS305-MOD_05
 This is for a project in my CS305 class. 
 For this project I will be solving blindness and curing cancer. 
-Stay posted for future updates. 
+Stay posted for future updates.
